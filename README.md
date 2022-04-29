@@ -10,7 +10,7 @@
     Project of the bot to the Instagram which enables follow for follow actions.  
     <br>
     <br>
-    <a href="#" target="_blank">View Project Demo</a>
+    <a href="https://youtu.be/2TS3ffwVsGs" target="_blank">View Project Demo</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@ _Installing and setting up app._
 
 1. Clone the repo
    ```sh
-   git clone https://
+   git clone https://github.com/filipwroblewski/Instagram-bot-4F4
    ```
 2. Install required modules
    ```sh
