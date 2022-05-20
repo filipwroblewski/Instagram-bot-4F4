@@ -41,7 +41,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2TS3ffwVsGs&ab_channel=wrobl_ewski/0.jpg)](https://www.youtube.com/watch?v=2TS3ffwVsGs&ab_channel=wrobl_ewski)
 
 A project meant for gaining follower by follow account and also like with comment in the post of followed account.
 
