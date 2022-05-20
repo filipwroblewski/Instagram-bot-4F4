@@ -10,7 +10,9 @@
     Project of the bot to the Instagram which enables follow for follow actions.  
     <br>
     <br>
-    <a href="https://youtu.be/2TS3ffwVsGs" target="_blank">View Project Demo</a>
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=2TS3ffwVsGs" target="_blank">
+      <img src="http://img.youtube.com/vi/2TS3ffwVsGs/0.jpg" alt="YouTUbe video" width="240" height="180" border="0"/>
+    </a>
   </p>
 </div>
 
