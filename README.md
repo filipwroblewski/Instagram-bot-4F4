@@ -12,9 +12,6 @@
     <br>
     <a href="https://youtu.be/2TS3ffwVsGs" target="_blank">View Project Demo</a>
   </p>
-  <p>
-    <iframe width="560" height="315" src="https://youtu.be/2TS3ffwVsGs" title="YouTube video" frameborder="0" allow="accelerometer; autoplay;clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
