@@ -11,7 +11,6 @@
     <br>
     <br>
     <a href="https://youtu.be/2TS3ffwVsGs" target="_blank">View Project Demo</a>
-    <iframe width="420" height="345" src="https://youtu.be/2TS3ffwVsGs">
   </p>
 </div>
 
