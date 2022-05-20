@@ -13,7 +13,7 @@
     <a href="https://youtu.be/2TS3ffwVsGs" target="_blank">View Project Demo</a>
   </p>
 </div>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2TS3ffwVsGs&ab_channel=wrobl_ewski/0.jpg)](https://www.youtube.com/watch?v=2TS3ffwVsGs&ab_channel=wrobl_ewski)
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
